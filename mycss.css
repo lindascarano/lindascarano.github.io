@@ -24,7 +24,16 @@ body {
   }
   .margin {margin-bottom: 45px;}
   
+  .logo {
+    color: #f4511e;
+    font-size: 200px;
+  }
 
+  @media screen and (max-width: 480px) {
+    .logo {
+      font-size: 150px;
+    }
+  }
 
 
 
