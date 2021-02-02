@@ -25,6 +25,9 @@ h4 {
     /* Black Gray */
     color: #fff;
 }
+.bg-grey {
+    background-color: #f6f6f6;
+  }
 
 .margin {
     margin-bottom: 100px;
